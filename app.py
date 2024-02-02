@@ -39,5 +39,4 @@ def handle_request():
 
     return json_dump
 
-if __name__ == "__main__":
-    app.run(debug=True)
+
